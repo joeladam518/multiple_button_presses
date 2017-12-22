@@ -1,2 +1,2 @@
-# neo_pixels_by_multiple_button_presses
-Neo Pixels triggered by a momentary button.
+# multiple_button_presses
+Stuff triggered by a momentary button.
